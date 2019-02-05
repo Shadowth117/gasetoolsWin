@@ -1,0 +1,11 @@
+Port of Essen's gaseTools: https://github.com/essen/gasetools to Visual Studio for easy Windows builds.
+
+A set of tools to manipulate SEGA games and file formats.
+http://psumods.co.uk
+
+Tools:
+
+* afs (read-only)
+* exp (decompressor)
+* fpb (PSP2 files extractor)
+* nbl (read-only, low endian)
